@@ -1,2 +1,4 @@
-# Kleine_Helferlein
-Kleine digitale Helferlein
+# Kleine Helferlein
+Kleine digitale Helferlein für Windows und iOS
+
+
